@@ -1,3 +1,14 @@
-# Godot 4+ specific ignores
+# Godot-specific ignores
 .godot/
 /android/
+
+# Log files
+*.log
+
+# Binary/Export folders (if you create them)
+export/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
