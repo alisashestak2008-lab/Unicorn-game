@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://bu8yvhwaxrolx"]
 
 [node name="Mission1" type="Node2D" unique_id=755943032]
+
+[node name="Node2D" type="Node2D" parent="." unique_id=1426229838]
